@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NoteUR" parent="Theme.AppCompat">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F68E4A</item>
+        <item name="colorPrimaryVariant">#F68E4A</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">#F68E4A</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#F36A5A</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
